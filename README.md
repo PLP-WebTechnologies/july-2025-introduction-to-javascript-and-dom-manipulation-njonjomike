@@ -1,4 +1,4 @@
-# 🚀 Assignment: Mastering JavaScript Fundamentals
+ 🚀 Assignment: Mastering JavaScript Fundamentals
 
 Welcome to your next step toward JavaScript mastery! In this assignment, you'll explore essential concepts that form the backbone of interactive, dynamic web pages—functions, loops, and the Document Object Model (DOM). Ready to code like a pro? Let’s dive in.
 
